@@ -18,7 +18,6 @@ Perfil proativo, orientado a resultados, com paixão por tecnologias que otimize
 📫 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/juan-spiller-837654264/)
 - [E-mail](mailto:juanspiller@gmail.com)
-- Telefone: (11) 97101-8189
 - [GitHub](https://github.com/Spiiller)
 
 Abro a oportunidades em **Data Science**, **Engenharia de Dados** ou **BI**! Explore meus projetos e veja o impacto dos dados. 🚀
