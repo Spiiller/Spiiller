@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, sou Juan Marques Spiller! 👋
 
-<!--
-**Spiiller/Spiiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Data Science** na FIAP (conclusão em 12/2025), transformando dados em insights estratégicos. Experiência acadêmica em modelagem de dados, integração de sistemas, criação de dashboards e projetos dimensionais. Domínio em **SQL**, **Python**, **Power BI**, **PowerCenter**, **IICS**, e conhecimentos em **AWS**, **Azure**, **DataBricks** e **Big Data**.
 
-Here are some ideas to get you started:
+Perfil proativo, orientado a resultados, com paixão por tecnologias que otimizem processos e garantam qualidade. Inglês avançado para colaboração global.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **O que você encontrará nos meus repositórios:**
+- **Análise de Dados e Machine Learning**: Projetos com Spark e Python, como previsão de churn, análise de bike-sharing e ETL para desastres meteorológicos em São Paulo.
+- **Business Intelligence**: Datamarts para e-commerce (Melhores Compras), consultas otimizadas em SQL/PLSQL e conformidade com LGPD.
+- **Desenvolvimento de Sistemas**: Sistema de Gerenciamento de Vídeos (SGV) para e-commerce e rede social em PHP.
+- **Projetos Acadêmicos**: Laboratórios em SQL, PowerCenter/IICS e Python, além de modelagem relacional e NoSQL.
+
+💡 **Destaques:**
+- Experiências: Modelagem de dados em SQL, laboratórios em PowerCenter/IICS e projetos em Python.
+- Habilidades: Bancos de dados (Oracle, SQL Server), Windows/Unix, Excel, Power BI Desktop.
+- Cursos: Fundamentos de Engenharia de Dados, Big Data, Python Intermediário, Apache Spark/PySpark, Amazon S3, Azure Cloud, DataBricks.
+
+📫 **Conecte-se comigo:**
+- [LinkedIn](https://www.linkedin.com/in/juan-spiller-837654264/)
+- [E-mail](mailto:juanspiller@gmail.com)
+- Telefone: (11) 97101-8189
+- [GitHub](https://github.com/Spiiller)
+
+Abro a oportunidades em **Data Science**, **Engenharia de Dados** ou **BI**! Explore meus projetos e veja o impacto dos dados. 🚀
