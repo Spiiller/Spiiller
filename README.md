@@ -1,4 +1,4 @@
-# Olá, sou Juan Marques Spiller! 👋
+# Olá, sou Juan Spiller! 
 
 Estudante de **Data Science** na FIAP (conclusão em 12/2025), transformando dados em insights estratégicos. Experiência acadêmica em modelagem de dados, integração de sistemas, criação de dashboards e projetos dimensionais. Domínio em **SQL**, **Python**, **Power BI**, **PowerCenter**, **IICS**, e conhecimentos em **AWS**, **Azure**, **DataBricks** e **Big Data**.
 
